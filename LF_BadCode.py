@@ -32,7 +32,7 @@ def skeletonize(img):
 
     return skel
 
-img = cv2.imread(r"img Path")
+img = cv2.imread(r"C:\Users\noah.robb\OneDrive - Department for Education\History\Pictures\Camera Roll\Examples\WIN_20230617_22_11_49_Pro.jpg")
 
 h, w, c = img.shape
 
